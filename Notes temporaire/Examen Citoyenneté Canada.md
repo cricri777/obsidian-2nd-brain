@@ -266,3 +266,44 @@ En 1970, le Canada participe à la création de la Francophonie, une association
 
 1980 et 1995 -> 1er et 2nd référendum pour la souverainté du Québec.
 
+### Une société en évolution
+1948 -> les Canadiens d’origine japonaise, finissent par obtenir le droit de voter
+1960 -> Les Autochtones ont le droit de vote
+
+### Les arts et la culture au Canada
+Parmi les hommes et les femmes de lettres, citons Stephen Leacock, Louis Hémon, sir Charles G. D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence et Mordecai Richler. Des musiciens comme sir Ernest MacMillan et Healey Willan sont connus au Canada et dans le monde entier. Des écrivains comme Joy Kogawa, Michael Ondaatje et Rohinton Mistry diversifient le paysage littéraire canadien.
+
+le Groupe des sept, fondé en 1920 et à l’origine d’un style de peinture cherchant à reproduire les paysages sauvages accidentés.
+Emily Carr peint les forêts et les vestiges autochtones de la côte Ouest. Les Automatistes du Québec, notamment Jean-Paul Riopelle, sont des pionniers de l’art moderne abstrait dans les années 1950. Louis-Philippe Hébert, du Québec, est un célèbre sculpteur de grands personnages historiques. Kenojuak Ashevak jette pour sa part les fondations de l’art inuit moderne par ses gravures, ses estampes et ses sculptures en pierre de savon.
+Les films de Denys Arcand connaissent du succès au Québec et à travers le pays, en plus de remporter des prix internationaux. Les réalisateurs Norman Jewison et Atom Egoyan sont d’autres grands noms du cinéma canadien.
+
+Terry Fox
+
+- Mark Tewksbury, médaillé d’or olympique, militant de premier plan pour les gais et lesbiennes du Canada
+- En 1972, Paul Henderson a marqué le but gagnant pour le Canada dans le cadre de la Série du siècle Canada-URSS
+- Catriona Le May Doan porte le drapeau après avoir gagné une médaille d’or en patinage de vitesse aux Jeux olympiques d’hiver de 2002
+- la Ligue canadienne de football (LCF) s’affrontent dans le cadre d’un championnat pour remporter la Coupe Grey, offerte par le gouverneur général lord Grey en 1909.
+- James Naismith qui invente le basket-ball en 1891.
+- Donovan Bailey établit un record mondial et obtient deux médailles d’or en course de vitesse aux Jeux olympiques d’été de 1996
+- Chantal Petitclerc devient championne paralympique mondiale à la course en fauteuil roulant.
+- Wayne Gretzky l’un des plus grands joueurs de hockey de tous les temps
+- En 1980, Terry Fox, un Britanno-Colombien qui a perdu sa jambe droite à la suite d’un cancer à l’âge de 18 ans, commence une course à travers le pays, intitulée le « marathon de l’espoir » afin d’amasser des fonds pour la recherche sur le cancer.
+- En 1985, un autre Britanno-Colombien, Rick Hansen, fait le tour du globe en fauteuil roulant afin de recueillir des fonds pour la recherche sur la moelle épinière.
+
+- Marshall McLuhan et Harold Innis sont des penseurs avant-gardistes
+- Depuis 1989, l’Agence spatiale canadienne et les astronautes canadiens participent à l’exploration spatiale, utilisant souvent le bras robotique conçu et construit par des Canadiens.
+- Gerhard Herzberg (un réfugié de l’Allemagne nazie), John Polanyi, Sidney Altman, Richard E. Taylor, Michael Smith et Bertram Brockhouse, des scientifiques canadiens, remportent le prix Nobel.
+
+### GRANDES DÉCOUVERTES ET INVENTIONS CANADIENNES
+- Alexander Graham Bell – a l’idée du téléphone dans sa maison d’été au Canada.
+- Joseph-Armand Bombardier – invente la motoneige, un véhicule léger pour l’hiver.
+- Sir Sandford Fleming – invente le système mondial des fuseaux horaires.
+- Mathew Evans et Henry Woodward – inventent ensemble la première ampoule électrique et vendent le brevet à Thomas Edison, qui la commercialise et passe à l’histoire.
+- Reginald Fessenden – contribue à l’invention de la radio, en envoyant le premier message vocal sans fil dans le monde.
+- Le Dr Wilder Penfield – était un neurochirurgien d’avant-garde à l’Université McGill à Montréal, et on l’appelait « le plus grand Canadien vivant ».
+- Le Dr John A. Hopps – invente le premier stimulateur cardiaque, utilisé aujourd’hui pour sauver la vie de personnes atteintes de problèmes cardiaques.
+- SPAR Aérospatiale / Conseil national de recherches – inventent le Canadarm, un bras robotique utilisé dans l’espace
+- Mike Lazaridis et Jim Balsillie – de Research In Motion (RIM), une société de communication sans fil reconnue pour son invention la plus célèbre, l’appareil BlackBerry.
+
+## Les Canadiens et leur système de gouvernement
+(p28)
