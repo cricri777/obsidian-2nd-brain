@@ -306,4 +306,56 @@ Terry Fox
 - Mike Lazaridis et Jim Balsillie – de Research In Motion (RIM), une société de communication sans fil reconnue pour son invention la plus célèbre, l’appareil BlackBerry.
 
 ## Les Canadiens et leur système de gouvernement
-(p28)
+Faits principaux:
+- notre pays est un État fédéral
+- une démocratie parlementaire 
+- une monarchie constitutionnelle
+
+### L'État Fédéral
+1867 -> Acte de l'Amérique du Nord britannique = Loi constitutionnelle de 1867
+
+Gouvernement Fédéral: assume la responsabilité des affaires de portée nationale et internationale:
+- défense, de la politique étrangère
+- du commerce et des communications entre les provinces
+- de la monnaie
+- de la navigation
+- du droit criminel et de la citoyenneté
+Les provinces sont responsables:
+- des municipalités
+- de l'éducation
+- de la santé
+- des ressources naturelles
+- de la propriété et des droits civils ainsi que les autoroutes
+Gouvernement fédéral et province se partage la responsabilité de l'agriculture et de l'immigration.
+Le fédéralisme permet aux différentes provinces d'adopter des politiques adaptées à leurs populations et de mettre à l'essai de nouvelles idées politiques.
+
+### La démocratie parlementaire
+La population élit les députés de la Chambre des communes à Ottawa ainsi que des assemblées législatives provinciales et territoriales.
+Ces représentants sont chargés:
+- d'adopter les lois
+- approuver et de surveiller les dépenses
+- de veiller à ce que le gouvernement soit responsables devant les représentants élus (conserver la "confiance de la chambre" et doivent démissionner s'ils sont défaits à l'issue d'un vote de censure)
+
+Le parlement comprend 3 parties:
+- le souverain (la reine ou le roi)
+- le Sénat 
+- la Chambre des communes
+Les assemblés législatives provinciales sont constituées:
+- du lieutenant gouverneur
+- l'assemblée élue
+
+Dans le gouvernement fédéral, 
+**le 1er ministre** choisit les ministres du Cabinet et il est responsable des activités et des politiques du gouvernement.
+**La chambre des communes** est la chambre des représentants, composée de députés élus par la population, traditionnellement tous les 4 ans.
+**Les sénateurs** sont nommés par le gouverneur général sur recommandation du premier ministre et restent en poste jusqu'à l'âge de 75ans.
+La chambre des communes et le sénat examinent et révisent les projets de loi (proposition de nouvelles lois).
+Un projet de loi doivent être adopté par les 2 chambres et d'avoir obtenu la sanction royale, accordée par le gouverneur général au nom du souverain.
+
+### Adoption des lois
+1) 1ère lecture - projet de loi est lu et imprimé
+2) 2ème lecture - les députés débattent du principe du projet de loi
+3) l'étude en comité - les membres du comité examinent le projet de loi, article par article
+4) Étape du rapport - Les députés peuvent ajouter d'autres amendements
+5) 3ème lecture - les députés débattent du projet de loi et votent
+6) Sénat - le projet de loi suit un processus similaire
+7) Sanction royale - Accepté par les 2 Chambres, le projet de loi reçoit alors la sanction royale
