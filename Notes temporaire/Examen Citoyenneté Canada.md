@@ -359,3 +359,11 @@ Un projet de loi doivent être adopté par les 2 chambres et d'avoir obtenu la s
 5) 3ème lecture - les députés débattent du projet de loi et votent
 6) Sénat - le projet de loi suit un processus similaire
 7) Sanction royale - Accepté par les 2 Chambres, le projet de loi reçoit alors la sanction royale
+
+### La Monarchie constitutionnelle
+le chef d'état est un souverain héréditaire (reine/roi).
+Le souverain fait partie du Parlement et joue un rôle important, non partisan en tant que figure centrale de la citoyenneté et de l'allégeance.
+Comme chef du Commonwealth, le souverain lie le Canada à 53 autres nations qui coopèrent pour l’avancement social, économique et culturel.
+Parmi les autres monarchies constitutionnelles du monde, mentionnons le Danemark, la Norvège, la Suède, l’Australie, la Nouvelle-Zélande, les Pays-Bas, l’Espagne, la Thaïlande, le Japon, la Jordanie et le Maroc.
+
+Le souverain est représenté au Canada par le **gouverneur général**, qui est nommé souverain sur recommandation du 1ere ministre.
