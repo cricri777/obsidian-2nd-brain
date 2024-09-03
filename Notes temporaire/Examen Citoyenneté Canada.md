@@ -369,3 +369,11 @@ Parmi les autres monarchies constitutionnelles du monde, mentionnons le Danemark
 Le souverain est représenté au Canada par le **gouverneur général**, qui est nommé souverain sur recommandation du 1ere ministre habituellement pour 5ans.
 Dans chacune des provinces, le souverain est représenté par le lieutenant-gouverneur, qui est nommé par le gouverneur général sur recommandation du 1er ministre (aussi 5ans).
 
+L'interaction entre les 3 pouvoirs du gouvernement - l'exécutif, législatif et le judiciaire.
+Chaque gouvernement provincial et territorial a une assemblée législative élue qui adopte les lois provinciales et territoriales.
+synonymes: membres de l'Assemblée législative, membre de l'assemblée nationale, membre du Parlement provincial ou membre de la Chambre d'assemblée.
+
+### Le système de gouvernement du Canada
+![[système de gouvernement.png]]
+## Les éléctions fédérales
+(p30)
