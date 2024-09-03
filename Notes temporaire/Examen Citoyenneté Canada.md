@@ -366,4 +366,6 @@ Le souverain fait partie du Parlement et joue un rôle important, non partisan e
 Comme chef du Commonwealth, le souverain lie le Canada à 53 autres nations qui coopèrent pour l’avancement social, économique et culturel.
 Parmi les autres monarchies constitutionnelles du monde, mentionnons le Danemark, la Norvège, la Suède, l’Australie, la Nouvelle-Zélande, les Pays-Bas, l’Espagne, la Thaïlande, le Japon, la Jordanie et le Maroc.
 
-Le souverain est représenté au Canada par le **gouverneur général**, qui est nommé souverain sur recommandation du 1ere ministre.
+Le souverain est représenté au Canada par le **gouverneur général**, qui est nommé souverain sur recommandation du 1ere ministre habituellement pour 5ans.
+Dans chacune des provinces, le souverain est représenté par le lieutenant-gouverneur, qui est nommé par le gouverneur général sur recommandation du 1er ministre (aussi 5ans).
+
