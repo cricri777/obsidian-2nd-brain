@@ -407,20 +407,28 @@ Le premier ministre choisit les ministres, principalement parmi les députés, p
 L'administration municipale, dirigée par un maire et des conseillers, adopte des règlements pour la communauté locale. Elle est responsable de la planification urbaine, des routes, de l'assainissement, du déneigement, des services d'urgence, des loisirs, du transport en commun, et de certains services sociaux et de santé. La plupart des grandes villes ont aussi des services de police municipaux.
 Les élections provinciales, territoriales et municipales sont tenues par vote secret et suivent des règles différentes des élections fédérales. Il est important de connaître les règles électorales spécifiques à votre province, territoire, ou municipalité pour pouvoir exercer votre droit de vote.
 ![[tableau des gouvenements.png]]
-## Gouvernement fédéral
-Chef d’État: 
-Le nom du représentant de la reine du Canada, le gouverneur général, est: 
-Le chef du gouvernement, le premier ministre, est: 
-Le nom du parti politique au pouvoir est: 
-Le nom du chef de l’Opposition est: 
-Le nom du parti représentant: 
-La loyale Opposition de Sa Majesté est: 
-Les noms des autres partis d’opposition et de leurs chefs sont: 
-Mon député à Ottawa est: 
-Ma circonscription fédérale s’appelle: 
-## Gouvernement provincial 
-Le nom du représentant de la reine dans ma province, le lieutenant-gouverneur, est: 
-Le chef du gouvernement (le premier ministre) est: 
-Le nom du parti provincial au pouvoir est: 
-Les noms des partis d’opposition provinciaux et de leurs chefs sont: 
-Mon député provincial est: 
+### Gouvernement fédéral (2024)
+- **Chef d’État:** Sa Majesté le Roi Charles III
+- **Le nom du représentant de la reine du Canada, le gouverneur général, est:** Mary Simon
+- **Le chef du gouvernement, le premier ministre, est:** Justin Trudeau
+- **Le nom du parti politique au pouvoir est:** Parti libéral du Canada
+- **Le nom du chef de l’Opposition est:** Pierre Poilievre
+- **Le nom du parti représentant:** Parti conservateur du Canada
+- **La loyale Opposition de Sa Majesté est:** Parti conservateur du Canada
+- **Les noms des autres partis d’opposition et de leurs chefs sont:**
+    - Nouveau Parti démocratique (NPD) – Jagmeet Singh
+    - Bloc Québécois – Yves-François Blanchet
+    - Parti vert du Canada – Elizabeth May et Jonathan Pedneault (co-chefs)
+- **Mon député à Ottawa est:** [Entrez le nom de votre député fédéral]
+- **Ma circonscription fédérale s’appelle:** [Entrez le nom de votre circonscription fédérale]
+
+### Gouvernement provincial Québec (2024)
+
+- **Le nom du représentant de la reine dans ma province, le lieutenant-gouverneur, est:** J. Michel Doyon
+- **Le chef du gouvernement (le premier ministre) est:** François Legault
+- **Le nom du parti provincial au pouvoir est:** Coalition Avenir Québec (CAQ)
+- **Les noms des partis d’opposition provinciaux et de leurs chefs sont:**
+    - Parti libéral du Québec (PLQ) – Marc Tanguay (chef intérimaire)
+    - Québec solidaire (QS) – Gabriel Nadeau-Dubois et Manon Massé (porte-parole)
+    - Parti Québécois (PQ) – Paul St-Pierre Plamondon
+- **Mon député provincial est:** [Entrez le nom de votre député provincial]
