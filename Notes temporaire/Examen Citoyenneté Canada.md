@@ -404,4 +404,23 @@ Le premier ministre et le parti au pouvoir forment le gouvernement aussi longtem
 Quand la Chambre des communes rejette une décision importante du gouvernement, comme le budget, cela signifie que le gouvernement a perdu la confiance de la majorité des députés, ce qui conduit généralement à la tenue d'une nouvelle élection.
 Le premier ministre choisit les ministres, principalement parmi les députés, pour diriger les ministères du gouvernement fédéral. Ensemble, ils forment le Cabinet, qui prend les décisions clés pour diriger le pays, prépare le budget, et propose la plupart des lois. Leurs décisions peuvent être contestées par les autres députés de la Chambre des communes.
 ### Les autres ordres de gouvernement au Canada
-
+L'administration municipale, dirigée par un maire et des conseillers, adopte des règlements pour la communauté locale. Elle est responsable de la planification urbaine, des routes, de l'assainissement, du déneigement, des services d'urgence, des loisirs, du transport en commun, et de certains services sociaux et de santé. La plupart des grandes villes ont aussi des services de police municipaux.
+Les élections provinciales, territoriales et municipales sont tenues par vote secret et suivent des règles différentes des élections fédérales. Il est important de connaître les règles électorales spécifiques à votre province, territoire, ou municipalité pour pouvoir exercer votre droit de vote.
+![[tableau des gouvenements.png]]
+## Gouvernement fédéral
+Chef d’État: 
+Le nom du représentant de la reine du Canada, le gouverneur général, est: 
+Le chef du gouvernement, le premier ministre, est: 
+Le nom du parti politique au pouvoir est: 
+Le nom du chef de l’Opposition est: 
+Le nom du parti représentant: 
+La loyale Opposition de Sa Majesté est: 
+Les noms des autres partis d’opposition et de leurs chefs sont: 
+Mon député à Ottawa est: 
+Ma circonscription fédérale s’appelle: 
+## Gouvernement provincial 
+Le nom du représentant de la reine dans ma province, le lieutenant-gouverneur, est: 
+Le chef du gouvernement (le premier ministre) est: 
+Le nom du parti provincial au pouvoir est: 
+Les noms des partis d’opposition provinciaux et de leurs chefs sont: 
+Mon député provincial est: 
