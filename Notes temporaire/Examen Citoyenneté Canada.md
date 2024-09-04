@@ -376,4 +376,32 @@ synonymes: membres de l'Assemblée législative, membre de l'assemblée national
 ### Le système de gouvernement du Canada
 ![[système de gouvernement.png]]
 ## Les éléctions fédérales
-(p30)
+- Les Canadiens votent aux élections pour les personnes qu’ils veulent comme représentants à la Chambre des communes.
+- Les membres de la Chambre des communes sont aussi appelés membres du Parlement ou députés.
+- D’après une loi adoptée par le Parlement, des élections fédérales doivent avoir lieu le troisième lundi d’octobre tous les quatre ans après les dernières élections générales
+- Le premier ministre peut demander au gouverneur général de déclencher une élection plus tôt.
+- Le Canada est divisé en 308 zones électorales, appelées circonscriptions
+- Une circonscription est une zone géographique représentée par un député.
+- Les citoyens de chaque circonscription élisent un député qui siège à la Chambre des communes.
+- Ce député représente ses électeurs ainsi que tous les Canadiens.
+
+Pour voter lors d’une élection fédérale ou d’un referendum fédéral, il faut être à la fois ::
+- citoyen canadien
+- âgé d'au moins 18 ans le jour du vote
+- inscrit sur la liste électorale.
+
+Les listes électorales utilisées sont produites par Élections Canada (org neutre du Parlement)
+Chaque élection, Élections Canada envoie une carte d'information de l'électeur à chaque personne présente dans le Registre national des électeurs. 
+Celle-ci indique:
+- la date de vote
+- le lieu de vote
+- le numéro de téléphone à composer si vous avez besoin d'un interprète ou services spéciaux
+Le chef du parti politique ayant le plus grand nombre de sièges à la Chambre des communes est invité par le gouverneur général à former le gouvernement et devient premier ministre.
+
+Gouvernement majoritaire: le parti politique détient au moins la moitié des sièges à la chambre des communes, sinon c'est un gouvernement minoritaire.
+
+Le premier ministre et le parti au pouvoir forment le gouvernement aussi longtemps qu’ils ont l’appui ou la confiance de la majorité des députés.
+Quand la Chambre des communes rejette une décision importante du gouvernement, comme le budget, cela signifie que le gouvernement a perdu la confiance de la majorité des députés, ce qui conduit généralement à la tenue d'une nouvelle élection.
+Le premier ministre choisit les ministres, principalement parmi les députés, pour diriger les ministères du gouvernement fédéral. Ensemble, ils forment le Cabinet, qui prend les décisions clés pour diriger le pays, prépare le budget, et propose la plupart des lois. Leurs décisions peuvent être contestées par les autres députés de la Chambre des communes.
+### Les autres ordres de gouvernement au Canada
+
