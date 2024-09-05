@@ -484,3 +484,56 @@ La Loi sur les langues officielles, adoptée en 1969, poursuit trois objectifs p
 3. Promouvoir l'égalité du français et de l'anglais dans la société canadienne.
 
 ### L'hymne national
+Proclamé en 1980, chanté la première fois à Québec en 1880.
+#### Ô Canada 
+> Ô Canada! Terre de nos aïeux,
+> Ton front est ceint de fleurons glorieux!
+> Car ton bras sait porter l’épée,
+> Il sait porter la croix!
+> Ton histoire est une épopée
+> Des plus brillants exploits.
+> Et ta valeur, de foi trempée,
+> Protégera nos foyers et nos droits.
+> Protégera nos foyers et nos droits
+
+### L'hymne royal
+*Dieu protège la reine (le roi)*, peut-être joué ou chanté à toute occasion où les canadiens veulent honorer le souverain.
+
+#### Dieu protège la Reine
+> Dieu protège la Reine!
+> De sa main souveraine!
+> Vive la Reine!
+> Qu’un règne glorieux,
+> Long et victorieux,
+> Rende son peuple heureux,
+> Vive la Reine!
+
+## L'ordre du Canada et les autres distinctions honorifiques
+Le Canada, après avoir utilisé les titres et décorations britanniques pendant de nombreuses années, a établi son propre système de distinctions en créant l’Ordre du Canada en 1967. Si vous connaissez quelqu'un qui mérite une reconnaissance spéciale, vous pouvez soumettre sa candidature pour ces distinctions.
+### La Croix de Victoria
+La Croix de Victoria, la plus haute distinction que peuvent recevoir les Canadiens
+Elle a été décernée à 96 Canadiens depuis 1854, y compris aux personnes suivantes :
+
+- **Alexander Roberts Dunn** : Premier Canadien à recevoir la Croix de Victoria pour son rôle dans la charge de la brigade légère à Balaclava pendant la guerre de Crimée en 1854.
+- **William Hall** : Matelot de 2e classe, premier Noir à recevoir la Croix de Victoria pour son rôle durant le siège de Lucknow pendant la Rébellion indienne de 1857.
+- **Filip Konowal** : Caporal né en Ukraine, premier membre du Corps canadien non né dans l’Empire britannique à recevoir la Croix de Victoria pour son courage lors de la bataille de la cote 70 en 1917.
+- **Billy Bishop** : As de l’aviation né à Owen Sound, Ontario, décoré de la Croix de Victoria pour son service dans le Royal Flying Corps pendant la Première Guerre mondiale. Plus tard nommé maréchal de l’Air honoraire de l’Aviation royale du Canada.
+- **Paul Triquet** : Capitaine de Cabano, Québec, a reçu la Croix de Victoria pour avoir dirigé l'attaque de Casa Berardi en Italie en 1943 pendant la Seconde Guerre mondiale.
+- **Robert Hampton Gray** : Lieutenant et pilote né à Trail, Colombie-Britannique, est le dernier Canadien à avoir reçu la Croix de Victoria en août 1945 pour avoir coulé un navire de combat japonais avant la fin de la Seconde Guerre mondiale.
+
+### Jours fériés nationaux et autres dates importantes
+Voici un aperçu des jours fériés nationaux et autres dates importantes au Canada :
+- **Jour de l'An** : 1er janvier
+- **Journée Sir John A. Macdonald** : 11 janvier
+- **Vendredi saint** : Vendredi précédant immédiatement le dimanche de Pâques
+- **Lundi de Pâques** : Lundi suivant immédiatement le dimanche de Pâques
+- **Jour de Vimy** : 9 avril
+- **Fête de Victoria** : Lundi précédant le 25 mai (anniversaire de la souveraine)
+- **Fête nationale (Québec)** : 24 juin (fête de la Saint-Jean-Baptiste)
+- **Fête du Canada** : 1er juillet
+- **Fête du Travail** : Premier lundi de septembre
+- **Action de grâces** : Deuxième lundi d’octobre
+- **Jour du Souvenir** : 11 novembre
+- **Journée Sir Wilfrid Laurier** : 20 novembre
+- **Noël** : 25 décembre
+- **Lendemain de Noël** : 26 décembre
