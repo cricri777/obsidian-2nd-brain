@@ -539,4 +539,43 @@ Voici un aperçu des jours fériés nationaux et autres dates importantes au Can
 - **Lendemain de Noël** : 26 décembre
 
 ## L'économie canadienne
-TODO (p42)
+### Une nation commerçante
+1988 -> le Canada a négocié un accord de libre-échange avec les États-Unis. (ALENA)
+1994 -> Le Mexique devient notre partenaire (ALENA)
+A englobé 444 millions de personnes et représenté en 2008 plus de un billion de dollars en commerce de marchandises.
+
+le groupe des huit principaux pays industrialisés (G8): Canada, États-Unis, l’Allemagne, le Royaume-Uni, l’Italie, la France, le Japon et la Russie.
+
+### L'économie canadienne comprend 3 grands secteur industriels
+- Le secteur des services (75%)
+- Le secteur manufacturier
+- Le secteur de l’exploitation des ressources naturelles
+À Blaine, dans l'État de Washington, l'Arche de la paix, portant les inscriptions « enfants d'une même mère » et « deux frères vivant ensemble dans l'harmonie », symbolise les liens étroits et les intérêts communs (Canada/USA).
+
+## Les régions du Canada
+Le Canada, deuxième plus grand pays du monde avec près de 10 millions de kilomètres carrés, est bordé par trois océans : le Pacifique à l'ouest, l'Atlantique à l'est et l'Arctique au nord. Au sud, il partage une frontière avec les États-Unis, avec qui il collabore pour assurer une frontière sûre et efficace.
+
+### Les régions du Canada
+- provinces de l'atlantique
+- le centre du canada
+- les provinces des prairies
+- la cote ouest
+- les territoires du nord
+
+### La capitale nationale
+1857 -> Ottawa, choisi par la reine Victoria (arrièrearrière-grand-mère de la reine Elizabeth II)
+
+### Les provinces et les territoires
+- 10 provinces
+- 3 territoires
+
+### La population
+- 34 millions d'habitants
+![[regions province capitale.png]]
+![[canada map.png]]
+
+### Les Provinces de l'atlantique
+- Terre-Neuve-et-Labrador
+- Île-du-Prince-Édouard
+- Nouvelle-Écosse
+- Nouveau-Brunswick
