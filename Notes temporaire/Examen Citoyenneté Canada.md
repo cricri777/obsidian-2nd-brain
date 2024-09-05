@@ -432,3 +432,55 @@ Les élections provinciales, territoriales et municipales sont tenues par vote s
     - Québec solidaire (QS) – Gabriel Nadeau-Dubois et Manon Massé (porte-parole)
     - Parti Québécois (PQ) – Paul St-Pierre Plamondon
 - **Mon député provincial est:** [Entrez le nom de votre député provincial]
+
+## Le système de justice
+### les Tribunaux
+- La Cour suprême du Canada est le plus haut tribunal de notre pays
+- La Cour fédérale du Canada s’occupe des questions concernant le gouvernement fédéral
+- La cour d’appel et une cour de première instance, qu’on appelle parfois Cour du Banc de la Reine ou Cour suprême dans la plupart des provinces.
+
+Il y a aussi des tribunaux provinciaux pour des infractions de moindre importance, comme les tribunaux de la famille, les cours des infractions routières, et les tribunaux des petites créances pour les affaires civiles concernant de petites sommes d’argent.
+
+### La police
+Le rôle de la police est de veiller à la sécurité des gens et à l’application de la loi.
+Il y a la police provincial en Ontario et au Québec et des services de police municipaux dans toute les provinces.
+La gendarmerie royale du canada (GRC) applique les lois fédérales dans l'ensemble du Canada et sert de police provinciale dans toutes les provinces (sauf Québec et Ontario) ainsi que certaines municipalités.
+### Obtenir une aide juridique
+la plupart des communautés offrent des services d’aide juridique gratuitement ou à un faible coût.
+
+## Les symboles canadiens
+### La Couronne du Canada
+La Couronne est un symbole de l'État au Canada depuis 400 ans. Le Canada est une monarchie constitutionnelle depuis la Confédération en 1867. La reine Elizabeth II est devenue reine du Canada en 1952, célébrant son jubilé d'or en 2002 et son jubilé de diamant en 2012. La Couronne représente le gouvernement, incluant le Parlement, les tribunaux, la police et les forces armées canadiennes.
+
+### Les drapeaux au Canada
+Le drapeau canadien actuel a été hissé pour la première fois en 1965, inspiré du motif rouge-blanc-rouge du Collège militaire royal de Kingston. Le rouge et le blanc, couleurs de la France et de l'Angleterre depuis le Moyen Âge, sont les couleurs nationales du Canada depuis 1921. L'Union Jack est le drapeau royal officiel, et le Red Ensign canadien a été utilisé pendant environ 100 ans. Chaque province et territoire a également son propre drapeau, reflétant ses traditions distinctes.
+
+### La feuille d’érable
+La feuille d'érable est le symbole le plus connu du Canada. Adoptée par les Canadiens français au XVIIIe siècle, elle est présente sur les uniformes et insignes militaires depuis les années 1850 et figure sur les pierres tombales des soldats canadiens décédés au combat, tant à l'étranger qu'au Canada.
+
+### La fleur de lys
+La fleur de lys aurait été adoptée par le roi français en 496 et a symbolisé la royauté française pendant plus de 1 000 ans, ainsi que la colonie de la Nouvelle-France. Elle a retrouvé de l'importance lors de la Confédération et était incluse dans le Red Ensign canadien. En 1948, le Québec a adopté son propre drapeau, conçu avec la croix et la fleur de lys.
+
+### Les armoiries et la devise
+Après la Première Guerre mondiale, le Canada a adopté des armoiries officielles et une devise nationale, *A mari usque ad mare*, signifiant « d’un océan à l’autre ». Les armoiries intègrent les symboles de l’Angleterre, de la France, de l’Écosse et de l’Irlande, ainsi que des feuilles d’érable rouges. Elles figurent aujourd'hui sur les billets de banque, les documents gouvernementaux et les édifices publics.
+
+### Les édifices du parlement
+Les édifices du Parlement canadien, construits dans les années 1860, combinent des éléments des traditions françaises, anglaises et autochtones avec l'architecture néogothique de l'époque de la reine Victoria. L'édifice du Centre a été détruit par un incendie en 1916 et reconstruit en 1922, avec la Bibliothèque comme seule partie préservée. La Tour de la Paix, terminée en 1927, commémore la Première Guerre mondiale et abrite la Chapelle du Souvenir, où sont inscrits les noms des soldats canadiens décédés en service.
+
+### Les sports populaires
+Le hockey, considéré comme le sport d'hiver national du Canada, a été inventé au XIXe siècle. Les équipes de la Ligue nationale de hockey s'affrontent pour la Coupe Stanley, créée en 1892 par lord Stanley, gouverneur général du Canada. La Coupe Clarkson, introduite en 2005 par Adrienne Clarkson, la 26e gouverneure générale, est décernée aux équipes de hockey féminin. Le hockey est très populaire parmi les jeunes Canadiens, qui jouent dans des ligues, à l'école ou dans les rues, et collectionnent les cartes de hockey.
+
+Le football canadien est le deuxième sport le plus populaire, tandis que le curling, apporté par les pionniers écossais, est également apprécié. La crosse, sport d'été traditionnel des Autochtones, est le sport officiel de l'été. Le soccer a le plus grand nombre de joueurs inscrits au Canada.
+
+### Le castor
+Le castor a été choisi comme symbole par la Compagnie de la Baie d’Hudson il y a plusieurs siècles. En 1834, il devient l'emblème de la Société Saint-Jean-Baptiste, une association patriotique canadienne-française, et est adopté par d'autres groupes. Le castor figure sur les pièces de monnaie de cinq cents, ainsi que sur les armoiries de la Saskatchewan, de l'Alberta, et de certaines villes comme Montréal et Toronto.
+
+### Les langues officielles du canada
+Le français et l'anglais sont les deux langues officielles du Canada. Les francophones et les anglophones coexistent dans un climat de partenariat et de tension créatrice depuis plus de 300 ans. Pour obtenir la citoyenneté canadienne, une connaissance suffisante du français ou de l'anglais est requise, sauf pour les candidats adultes de 55 ans ou plus.
+
+La Loi sur les langues officielles, adoptée en 1969, poursuit trois objectifs principaux :
+1. Établir l'égalité entre le français et l'anglais au sein du Parlement, du gouvernement et des institutions concernées.
+2. Maintenir et développer les communautés de langue officielle en situation minoritaire au Canada.
+3. Promouvoir l'égalité du français et de l'anglais dans la société canadienne.
+
+### L'hymne national
