@@ -537,3 +537,6 @@ Voici un aperçu des jours fériés nationaux et autres dates importantes au Can
 - **Journée Sir Wilfrid Laurier** : 20 novembre
 - **Noël** : 25 décembre
 - **Lendemain de Noël** : 26 décembre
+
+## L'économie canadienne
+TODO (p42)
