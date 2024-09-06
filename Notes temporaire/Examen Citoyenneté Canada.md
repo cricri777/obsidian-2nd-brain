@@ -575,8 +575,36 @@ Le Canada, deuxième plus grand pays du monde avec près de 10 millions de kilom
 ![[canada map.png]]
 
 ### Les Provinces de l'atlantique
-- Terre-Neuve-et-Labrador
-- Île-du-Prince-Édouard
-- Nouvelle-Écosse
-- Nouveau-Brunswick
-(p48)
+pêche, agriculture, la foresterie et l'exploitation minière. L'océan Atlantique entraîne des hivers frais et des été frais et humides.
+##### Terre-Neuve-et-Labrador
+##### Île-du-Prince-Édouard
+##### Nouvelle-Écosse
+##### Nouveau-Brunswick
+### Le centre du Canada
+centre industriel et manufacturier du Canada. Les hivers sont froids et les étés sont chauds et humides dans le sud. Le 2 provinces produisent > 3/4 des biens fabriqués au pays.
+##### Ontario
+12 millions d'habitants. 1/3 de la population canadienne.
+5 grands lac entre Ontario et USA: Ontario, Érié, Huron, Michigan (USA), Supérieur
+##### Québec
+8 millions d'habitants, 3/4 ont français comme langue maternelle. Industries de la foresterie, l’énergie et l’exploitation minière.
+### Les provinces des prairies
+immenses ressources énergétiques et leurs terres agricoles sont parmi les plus fertiles du monde.
+La région est essentiellement sèche, avec des hivers froids et des étés chauds.
+##### Alberta
+##### Saskatchewan
+autrefois surnommé le grenier du monde, province du blé.
+##### Manitoba
+14% des habitants sont d'originne ukrainienne, 15% Autochtones
+### La Côte ouest
+##### Colombie-Britannique
+climat tempéré, 4 millions d'habitants. Langues les plus parlées sont l'anglais, le chinois et le punjabi.
+
+### Les Territoires du Nord
+1/3 de la masse terrestre du Canada pour 100 000 habitants. On y trouve des mines d’or, de plomb, de cuivre, de diamants et de zinc, et des gisements de pétrole et de gaz sont en voie d’exploitation.
+##### Yukon
+##### Territoire du Nord-Ouest
+surnommée « capitale nord-américaine du diamant ». Plus de la moitié de la population est autochtone (Dénés, Inuits et Métis).
+##### Nunavut
+Le Nunavut (mot signifiant « notre terre » en inuktitut)
+### Les Rangers canadiens
+Le Grand Nord canadien présente des enjeux de sécurité et de souveraineté. Dans cette région isolée et aux conditions climatiques difficiles, les Rangers canadiens, membres de la Réserve des Forces canadiennes, jouent un rôle crucial. Utilisant leurs connaissances indigènes du territoire, ils patrouillent en motoneige l'hiver et en véhicule tout-terrain l'été, veillant à ce que le drapeau canadien continue de flotter sur l'Arctique.
