@@ -424,7 +424,7 @@ Les élections provinciales, territoriales et municipales sont tenues par vote s
 
 ### Gouvernement provincial Québec (2024)
 
-- **Le nom du représentant de la reine dans ma province, le lieutenant-gouverneur, est:** J. Michel Doyon
+- **Le nom du représentant de la reine dans ma province, le lieutenant-gouverneur, est:** Manon Jeannotte
 - **Le chef du gouvernement (le premier ministre) est:** François Legault
 - **Le nom du parti provincial au pouvoir est:** Coalition Avenir Québec (CAQ)
 - **Les noms des partis d’opposition provinciaux et de leurs chefs sont:**
