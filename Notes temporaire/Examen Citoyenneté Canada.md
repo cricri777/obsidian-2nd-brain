@@ -448,6 +448,8 @@ La gendarmerie royale du canada (GRC) applique les lois fédérales dans l'ensem
 ### Obtenir une aide juridique
 la plupart des communautés offrent des services d’aide juridique gratuitement ou à un faible coût.
 
+#### la statue aux yeux bandés
+Les yeux bandés de la statue représentant la Justice symbolisent l’impartialité avec laquelle nos lois sont appliquées : aveugles à toutes les considérations sauf les faits
 ## Les symboles canadiens
 ### La Couronne du Canada
 La Couronne est un symbole de l'État au Canada depuis 400 ans. Le Canada est une monarchie constitutionnelle depuis la Confédération en 1867. La reine Elizabeth II est devenue reine du Canada en 1952, célébrant son jubilé d'or en 2002 et son jubilé de diamant en 2012. La Couronne représente le gouvernement, incluant le Parlement, les tribunaux, la police et les forces armées canadiennes.
