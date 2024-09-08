@@ -1,3 +1,5 @@
+# Editor
+- Vim
 # Terminal
 - Iterm2
 - Alacrity
