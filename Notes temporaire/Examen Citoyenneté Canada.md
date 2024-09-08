@@ -610,3 +610,6 @@ surnommée « capitale nord-américaine du diamant ». Plus de la moitié de la 
 Le Nunavut (mot signifiant « notre terre » en inuktitut)
 ### Les Rangers canadiens
 Le Grand Nord canadien présente des enjeux de sécurité et de souveraineté. Dans cette région isolée et aux conditions climatiques difficiles, les Rangers canadiens, membres de la Réserve des Forces canadiennes, jouent un rôle crucial. Utilisant leurs connaissances indigènes du territoire, ils patrouillent en motoneige l'hiver et en véhicule tout-terrain l'été, veillant à ce que le drapeau canadien continue de flotter sur l'Arctique.
+
+
+Pour apprendre les questions gratuitement : https://www.youtube.com/watch?v=C0dIfWyBYl8
