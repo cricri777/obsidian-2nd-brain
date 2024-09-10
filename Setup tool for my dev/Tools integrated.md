@@ -1,0 +1,5 @@
+- tmux
+- Zsh
+	- powerlevel10k (zsh theme) + zsh-syntax-highlighting
+- fzf
+- starship
