@@ -1,16 +1,11 @@
 # Editor
 - Vim
-# Terminal
-- Iterm2
-- Alacrity
-
+	- .vimrc (https://gist.github.com/simonista/8703722)
 # Linux tool
 - sed
 - awk
 - dust (du replacement) or duf
 - dig / dog
-- bat (cat replacement)
-- tldr (man page replacement)
 
 # Resources
 https://www.youtube.com/watch?v=YDLxnHQG-LY
