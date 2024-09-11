@@ -6,6 +6,6 @@
 - awk
 - dust (du replacement) or duf
 - dig / dog
-
+- nix home manager
 # Resources
 https://www.youtube.com/watch?v=YDLxnHQG-LY
