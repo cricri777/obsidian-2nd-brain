@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=TRgJT5gHXxo
 # Daily energy optimization
 # Effectiveness and Efficiency
 "work expands so as to fill the time available for its completion"
+ 
