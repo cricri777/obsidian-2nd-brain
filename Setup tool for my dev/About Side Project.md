@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=TRgJT5gHXxo
-# Strategic
+# Be Strategic
 # Investment of money for time
 # Daily energy optimization
 # Effectiveness and Efficiency
